@@ -1,13 +1,14 @@
 ﻿using System;
-namespace HelloWorld
+
+namespace HelloWorldApplication
 {
     class HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("AKASH bISWAS");
+            /* my first program in C# */
+            Console.WriteLine("Hello World akash biswas");
             Console.ReadKey();
         }
-
     }
 }
